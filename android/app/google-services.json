@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "282150796493",
+    "firebase_url": "https://remindwork-d7b8c.firebaseio.com",
+    "project_id": "remindwork-d7b8c",
+    "storage_bucket": "remindwork-d7b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282150796493:android:f897a01a1212a160",
+        "android_client_info": {
+          "package_name": "com.satime.remindwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282150796493-cg8jc411vj8f19q8sdl3ct3banovl9q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS_s8uPbVbzsjm8PXlwyNxxQaBudQ8FUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
